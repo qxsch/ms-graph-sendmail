@@ -1,0 +1,3 @@
+msgraph-sdk
+requests
+azure-identity
