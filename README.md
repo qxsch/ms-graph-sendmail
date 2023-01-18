@@ -1,5 +1,6 @@
 # Microsoft Graph Send Mail
 Send mail as an application for a user mailbox
+  * There is a java and a python demo (you can choose)
 
 ## Setup
 
