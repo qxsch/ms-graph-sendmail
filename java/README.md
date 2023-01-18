@@ -2,7 +2,7 @@
 
 ## Setup
 Make sure, that:
- * you did follow the [setup instruactions](../README.md)
+ * you did follow the [setup instructions](../README.md)
  * you updated the [application.properties](src/main/resources/application.properties) file
 
 # Run the Demo

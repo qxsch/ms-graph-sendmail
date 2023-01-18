@@ -2,7 +2,7 @@
 
 ## Setup
 Make sure, that:
- * you did follow the [setup instruactions](../README.md)
+ * you did follow the [setup instructions](../README.md)
  * you updated the [config.py](config.py) file
  * you installed the required packages: ``pip install msgraph-sdk azure-identity``
 
